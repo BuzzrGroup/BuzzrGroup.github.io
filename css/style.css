@@ -3021,49 +3021,49 @@ ul {
   }
 }
 
-/************use_sasu css start***************/
-/* line 2, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_sasu.scss */
-.use_sasu {
+/************use_bizzbuzz css start***************/
+/* line 2, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_bizzbuzz.scss */
+.use_bizzbuzz {
   position: relative;
   z-index: 1;
   position: relative;
   z-index: 99;
 }
 
-/* line 8, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_sasu.scss */
-.use_sasu .feature_icon_1 {
+/* line 8, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_bizzbuzz.scss */
+.use_bizzbuzz .feature_icon_1 {
   position: absolute;
   left: 22%;
   top: 42%;
   z-index: -1;
 }
 
-/* line 15, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_sasu.scss */
-.use_sasu .feature_icon_2 {
+/* line 15, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_bizzbuzz.scss */
+.use_bizzbuzz .feature_icon_2 {
   right: 20%;
   top: 50%;
   position: absolute;
   z-index: -1;
 }
 
-/* line 21, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_sasu.scss */
-.use_sasu .feature_icon_3 {
+/* line 21, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_bizzbuzz.scss */
+.use_bizzbuzz .feature_icon_3 {
   position: absolute;
   left: 3%;
   z-index: -1;
   bottom: 70%;
 }
 
-/* line 27, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_sasu.scss */
-.use_sasu .feature_icon_4 {
+/* line 27, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_bizzbuzz.scss */
+.use_bizzbuzz .feature_icon_4 {
   position: absolute;
   right: 15%;
   top: 7%;
   z-index: -1;
 }
 
-/* line 33, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_sasu.scss */
-.use_sasu .single_feature_part {
+/* line 33, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_bizzbuzz.scss */
+.use_bizzbuzz .single_feature_part {
   padding: 40px 25px 31px;
   text-align: center;
   border-radius: 5px;
@@ -3074,93 +3074,93 @@ ul {
 }
 
 @media (max-width: 576px) {
-  /* line 33, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_sasu.scss */
-  .use_sasu .single_feature_part {
+  /* line 33, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_bizzbuzz.scss */
+  .use_bizzbuzz .single_feature_part {
     padding: 25px 10px;
     margin-top: 25px;
   }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  /* line 33, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_sasu.scss */
-  .use_sasu .single_feature_part {
+  /* line 33, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_bizzbuzz.scss */
+  .use_bizzbuzz .single_feature_part {
     padding: 30px 15px;
     margin-top: 25px;
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  /* line 33, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_sasu.scss */
-  .use_sasu .single_feature_part {
+  /* line 33, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_bizzbuzz.scss */
+  .use_bizzbuzz .single_feature_part {
     padding: 30px 25px;
     margin-top: 25px;
   }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
-  /* line 33, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_sasu.scss */
-  .use_sasu .single_feature_part {
+  /* line 33, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_bizzbuzz.scss */
+  .use_bizzbuzz .single_feature_part {
     margin-top: 25px;
   }
 }
 
-/* line 60, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_sasu.scss */
-.use_sasu .single_feature_part img {
+/* line 60, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_bizzbuzz.scss */
+.use_bizzbuzz .single_feature_part img {
   margin-bottom: 21px;
   height: 65px;
 }
 
 @media (max-width: 991px) {
-  /* line 60, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_sasu.scss */
-  .use_sasu .single_feature_part img {
+  /* line 60, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_bizzbuzz.scss */
+  .use_bizzbuzz .single_feature_part img {
     margin-bottom: 21px;
   }
 }
 
-/* line 69, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_sasu.scss */
-.use_sasu .single_feature_part img i {
+/* line 69, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_bizzbuzz.scss */
+.use_bizzbuzz .single_feature_part img i {
   color: #0c2e60;
   font-size: 24px;
   -webkit-transition: 0.6s;
   transition: 0.6s;
 }
 
-/* line 76, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_sasu.scss */
-.use_sasu .single_feature_part h4 {
+/* line 76, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_bizzbuzz.scss */
+.use_bizzbuzz .single_feature_part h4 {
   font-weight: 600;
   font-size: 20px;
   margin-bottom: 22px;
 }
 
 @media (max-width: 576px) {
-  /* line 76, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_sasu.scss */
-  .use_sasu .single_feature_part h4 {
+  /* line 76, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_bizzbuzz.scss */
+  .use_bizzbuzz .single_feature_part h4 {
     margin-bottom: 15px;
   }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  /* line 76, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_sasu.scss */
-  .use_sasu .single_feature_part h4 {
+  /* line 76, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_bizzbuzz.scss */
+  .use_bizzbuzz .single_feature_part h4 {
     margin-bottom: 15px;
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  /* line 76, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_sasu.scss */
-  .use_sasu .single_feature_part h4 {
+  /* line 76, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_bizzbuzz.scss */
+  .use_bizzbuzz .single_feature_part h4 {
     margin-bottom: 15px;
   }
 }
 
-/* line 96, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_sasu.scss */
-.use_sasu .single_feature_part p {
+/* line 96, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_use_bizzbuzz.scss */
+.use_bizzbuzz .single_feature_part p {
   color: #7f7f7f;
   line-height: 1.8;
   font-size: 15px;
 }
 
-/************use_sasu css start***************/
+/************use_bizzbuzz css start***************/
 /* line 2, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_pricing_plan.scss */
 .pricing_part {
   position: relative;
